@@ -60,7 +60,7 @@ To turn your repo into a GH-Pages site, you need to open the "Repository Setting
 
 ![Repo Settings Button](../imgs/Screen7.png)
 
-1. Inside of settings, you will need to scroll down until you fine the "GitHub Pages" section.
+1. Inside of settings, you will need to scroll down until you find the "Pages" section.
 2. There you need to change the dropdown menu under source from "None▾" to "Branch: master".
 3. Hit the "Save" button.
 4. The page should reload and at the top, should now be a blue banner saying "GitHub Pages source saved".
