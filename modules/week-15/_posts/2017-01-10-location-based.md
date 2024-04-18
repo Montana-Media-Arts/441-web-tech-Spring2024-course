@@ -7,7 +7,7 @@ jotted: true
 # Location Based Example
 
 
-Try it live with this <a href="https://codepen.io/nicolocarpignoli/pen/MWwzyVP" target="_new">Codepen</a>. It retrieves your position and places a text near you.
+Try it live with this <a href="https://codepen.io/nicolocarpignoli/pen/MWwzyVP" target="_blank">Codepen</a>. It retrieves your position and places a text near you.
 
 Please follow these simple steps:
 

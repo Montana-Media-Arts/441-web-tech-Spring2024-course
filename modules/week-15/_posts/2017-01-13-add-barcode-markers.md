@@ -35,5 +35,5 @@ Here is the <a href="../imgs/barcode.png" target="_blank">barcode</a> for this e
 </html>
 ```
 
-Use these <a href="https://github.com/nicolocarpignoli/artoolkit-barcode-markers-collection" target="_new">barcodes</a>.
+Use these <a href="https://github.com/nicolocarpignoli/artoolkit-barcode-markers-collection" target="_blank">barcodes</a>.
 

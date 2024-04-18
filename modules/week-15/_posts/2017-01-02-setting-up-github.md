@@ -14,14 +14,14 @@ Step 1 - Go to the Settings of your Repository
 
 <img src="../imgs/Step1.png">
 
-Step 2 - Scroll down to the GitHub Pages section
+Step 2 - Scroll down and click on Pages
 
 <img src="../imgs/Step2.png">
 
-Step 3 - Choose the master branch
+Step 3 - Choose the master branch and click Save
 
 <img src="../imgs/Step3.png">
 
-Step 4 - Save and wait
+Step 4 - View your page
 
 <img src="../imgs/Step4.png">
