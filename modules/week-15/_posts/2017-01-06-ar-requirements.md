@@ -1,6 +1,6 @@
 ---
 title: AR Requirements
-module: 7
+module: 15
 jotted: false
 ---
 
@@ -69,4 +69,4 @@ All the examples you will see, and all AR.js web apps in general, have to be run
 
 So don't forget to always run your examples on secure connections servers or localhost. **Github Pages** is a great way to have free and live websites under https.
 
-<a href="https://ar-js-org.github.io/AR.js-Docs/" target="_new">Source</a>
+<a href="https://ar-js-org.github.io/AR.js-Docs/" target="_blank">Source</a>

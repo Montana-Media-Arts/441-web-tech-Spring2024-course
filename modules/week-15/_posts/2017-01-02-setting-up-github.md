@@ -1,6 +1,6 @@
 ---
 title: Setting up GitHub
-module: 7
+module: 15
 jotted: false
 ---
 

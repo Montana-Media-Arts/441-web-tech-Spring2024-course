@@ -1,6 +1,6 @@
 ---
 title: Add Barcode Markers
-module: 7
+module: 15
 jotted: true
 ---
 
@@ -8,7 +8,7 @@ jotted: true
 
 What if we want to add a Barcode?
 
-Here is the <a href="../imgs/barcode.png" target="_new">barcode</a> for this example.
+Here is the <a href="../imgs/barcode.png" target="_blank">barcode</a> for this example.
 
 ```html
 

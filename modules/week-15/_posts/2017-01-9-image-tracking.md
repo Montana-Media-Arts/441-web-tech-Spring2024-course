@@ -1,19 +1,19 @@
 ---
 title: Image Tracking Example
-module: 7
+module: 15
 jotted: true
 ---
 
 # Image Tracknig Example
 
-There is a <a href="https://codepen.io/nicolocarpignoli/pen/vYOeYKd" target="_new">Codepen</a> for you to try. Below you can find also a live example.
+There is a <a href="https://codepen.io/nicolocarpignoli/pen/vYOeYKd" target="_blank">Codepen</a> for you to try. Below you can find also a live example.
 
 Please follow these simple steps:
 
-1. Create a new project with the code below (or open this <a href="https://ar-js-org.github.io/AR.js/aframe/examples/image-tracking/nft/" target="_new">live example</a> and go directly to the last step)
+1. Create a new project with the code below (or open this <a href="https://ar-js-org.github.io/AR.js/aframe/examples/image-tracking/nft/" target="_blank">live example</a> and go directly to the last step)
 2. Run it on a server
 3. Open the website on your phone
-4. Scan this <a href="../imgs/trex-image-big.jpeg" target="_new">picture</a> to see content through the camera.
+4. Scan this <a href="../imgs/trex-image-big.jpeg" target="_blank">picture</a> to see content through the camera.
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/aframevr/aframe@1c2407b26c61958baa93967b5412487cd94b290b/dist/aframe-master.min.js"></script>
@@ -72,4 +72,4 @@ Please follow these simple steps:
 </body>
 ```
 
-<a href="https://ar-js-org.github.io/AR.js-Docs/" target="_new">Source</a>
+<a href="https://ar-js-org.github.io/AR.js-Docs/" target="_blank">Source</a>

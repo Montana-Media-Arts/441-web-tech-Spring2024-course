@@ -1,6 +1,6 @@
 ---
 title: Add Custom Events
-module: 7
+module: 15
 jotted: true
 ---
 
@@ -104,4 +104,4 @@ We will end up with the following code:
 </html>
 ```
 
-<a href="https://ar-js-org.github.io/AR.js-Docs/ui-events/" target="_new">Source</a>
+<a href="https://ar-js-org.github.io/AR.js-Docs/ui-events/" target="_blank">Source</a>

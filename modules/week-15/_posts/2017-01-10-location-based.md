@@ -1,6 +1,6 @@
 ---
 title: Location Based Example
-module: 7
+module: 15
 jotted: true
 ---
 
@@ -46,4 +46,4 @@ Please follow these simple steps:
 </html>
 ```
 
-<a href="https://ar-js-org.github.io/AR.js-Docs/" target="_new">Source</a>
+<a href="https://ar-js-org.github.io/AR.js-Docs/" target="_blank">Source</a>

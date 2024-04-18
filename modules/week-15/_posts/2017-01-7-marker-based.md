@@ -1,6 +1,6 @@
 ---
 title: Marker Based Example
-module: 7
+module: 15
 jotted: true
 ---
 
@@ -8,10 +8,10 @@ jotted: true
 
 Please follow these simple steps:
 
-1. Create a new project with the code below (or open this <a href="https://ar-js-org.github.io/AR.js/aframe/examples/marker-based/basic.html" target="_new">live example</a> and go directly to the last step)
+1. Create a new project with the code below (or open this <a href="https://ar-js-org.github.io/AR.js/aframe/examples/marker-based/basic.html" target="_blank">live example</a> and go directly to the last step)
 2. Run it on a server
 3. Open the website on your phone
-4. Scan this <a href="../imgs/hiro.png" target="_new">picture</a> to see content through the camera.
+4. Scan this <a href="../imgs/hiro.png" target="_blank">picture</a> to see content through the camera.
 
 ```html
 <!DOCTYPE html>
@@ -34,4 +34,4 @@ Please follow these simple steps:
 </html>
 ```
 
-<a href="https://ar-js-org.github.io/AR.js-Docs/" target="_new">Source</a>
+<a href="https://ar-js-org.github.io/AR.js-Docs/" target="_blank">Source</a>
