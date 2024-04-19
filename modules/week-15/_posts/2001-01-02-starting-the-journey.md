@@ -55,14 +55,14 @@ const createScene = () => {
 ```
 Since at this point there is only one scene you may notice that this parameter can be dropped from the camera, light and box as the default is for them to be placed in the current scene.
 
-<img src="imgs/house0.png">
+<img src="../imgs/house0.png">
 
 Having created our box we can save, or export, the scene from within the playground by selecting the Inspector
 
-<img src="imgs/pgpartmenu.png">
+<img src="../imgs/pgpartmenu.png">
 
 followed by Tools and choose which type to export, the .babylon format or the GLB format.
 
-<img src="imgs/export.png">
+<img src="../imgs/export.png">
 
 Now we have a file we can use it to demonstrate how to view it in a web page.
