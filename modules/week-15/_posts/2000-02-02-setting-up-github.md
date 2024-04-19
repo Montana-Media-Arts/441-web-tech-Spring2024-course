@@ -1,5 +1,5 @@
 ---
-title: Setting up GitHub
+title: Setting up GitHub Pages
 module: 15
 jotted: false
 ---
