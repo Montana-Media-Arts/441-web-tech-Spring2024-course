@@ -95,7 +95,8 @@ This line
 allows you to use a touch screen.
 
 
-Import a Model Setup
+### Import a Model Setup
+
 The following loads a box model into an app.
 
 ```html
@@ -164,7 +165,8 @@ The following loads a box model into an app.
 </html>
 ```
 
-Code a Model Setup
+### Code a Model Setup
+
 The following creates a box model in an app.
 
 ```html

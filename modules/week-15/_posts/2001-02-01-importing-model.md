@@ -4,10 +4,7 @@ module: 15
 jotted: true
 ---
 
-# Importing a Model
-
-
-Importing a Scene or Model
+## Importing a Scene or Model
 
 When you add a model to a scene, you are loading it through the browser. As you likely already know, loading anything from a website is an asynchronous function. Therefore, before you can do anything with your models, you first must ensure they have been loaded successfully. You can do this using the ImportMeshAsync method of the SceneLoader, which can be done as follows:
 
@@ -39,10 +36,10 @@ BABYLON.SceneLoader.ImportMeshAsync("", "/relative path/", "myFile").then((resul
 });
 ```
 
-Moving On
+### Moving On
 Having a working scene in the playground is one thing, but you will ultimately want your game or application to run on your own website. In the next section, we will provide an HTML template to do just this.
 
-Warning
+### Warning
 An obvious statement - different file types export models differently.
 
 A less obvious statement - different file types may be changed when importing into Babylon.js.

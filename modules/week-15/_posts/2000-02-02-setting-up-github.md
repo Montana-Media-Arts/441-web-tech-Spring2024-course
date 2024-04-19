@@ -6,7 +6,7 @@ jotted: false
 
 # Set Up GitHub
 
-You all should have GitHub, so now, make sure GitHub Pages is active.
+You all should have GitHub, so now we are going to make GitHub Pages is active so you can share any/all projects with everyone.
 
 How do you do that?
 

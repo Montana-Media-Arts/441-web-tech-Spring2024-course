@@ -16,8 +16,5 @@ First, go to <a href="https://threejs.org/" target="_new">threejs.org</a> and do
 
 ![Live Server](../imgs/LiveServerVSCode.png "Live Server VS Code")
 
-![Live Server](../imgs/LiveServerAtom1.png "Live Server Atom Search")
-
-![Live Server](../imgs/LiveServerAtom2.png "Live Server Atom Install")
 
 Don't forget to create a js or library folder to hold your threejs file.  You can find the file you need in the **build** folder after you unzip the file.
