@@ -1,10 +1,10 @@
 ---
-title: Setting up App
+title: Setting the App
 module: 15
 jotted: true
 ---
 
-## Setting up first app
+## Setting up your first app
 
  You will have seen that the template needed for any code on the Playground is:
 

@@ -14,10 +14,6 @@ Want to try out Babylon.js straight away? The examples on each page are also pre
 
 Whether you are creating a whole world or just placing one model into a web page you need a scene to contain the world or model, a camera to view it, a light to illuminate it and, of course, at least one viewable object as a model. All models, whether just a box or a complex character, are made from a mesh of triangles or facets.
 
-### First Scene and Model
-
-Whether you are creating a whole world or just placing one model into a web page you need a scene to contain the world or model, a camera to view it, a light to illuminate it and, of course, at least one viewable object as a model. All models, whether just a box or a complex character, are made from a mesh of triangles or facets.
-
 ### Say Hello to Your First World
 
 All projects using the Babylon.js Engine need a scene with a camera and a light added. Then we can create our box.
