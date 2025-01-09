@@ -27,6 +27,7 @@ To do this;
 - change the `"Make some changes and see what happens!"` text
     - perhaps add/change some more text?
 - You should now see your changes!
+- next add a `prompt` and see what happens. *example: prompt('what is your name?;)*
 - don't forget to go to the web console.
 
 
